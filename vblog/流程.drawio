@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="JKclxsss3tw0J9Mc4iFi" name="第 1 页">
+        <mxGraphModel dx="875" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="用户管理user" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="585" width="270" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="认证管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="585" width="270" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="文章管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="660" y="585" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="1.用户的id&lt;br&gt;2.username&lt;br&gt;3.password&lt;br&gt;4.用户角色（role 读者和作者）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="660" width="100" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="1.用户登录&lt;br&gt;2.用户创建&lt;br&gt;3." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="665" width="120" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="690" width="120" height="150" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
